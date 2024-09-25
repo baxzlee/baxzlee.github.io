@@ -2,12 +2,12 @@ index_htm_files
 index.htm
 index.htm
 index_htm_files/1.jpg
-index_htm_files/1.webp
 index_htm_files/1@2x.jpg
-index_htm_files/1@2x.webp
 index_htm_files/2.jpg
-index_htm_files/2.webp
 index_htm_files/2@2x.jpg
+index_htm_files/1.webp
+index_htm_files/1@2x.webp
+index_htm_files/2.webp
 index_htm_files/2@2x.webp
 index_htm_files/xara_font_1.woff
 index_htm_files/xara_font_2.woff
